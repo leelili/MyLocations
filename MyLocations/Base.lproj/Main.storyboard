@@ -87,7 +87,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="400" y="-303"/>
+            <point key="canvasLocation" x="620" y="-651"/>
         </scene>
         <!--Tag Location-->
         <scene sceneID="92O-O4-GM7">
@@ -101,7 +101,7 @@
                             <tableViewSection headerTitle="DESCRIPTION" id="FBP-Wl-zhZ">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="88" id="Tlc-aT-pdl">
-                                        <rect key="frame" x="0.0" y="50" width="320" height="88"/>
+                                        <rect key="frame" x="0.0" y="114" width="320" height="88"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Tlc-aT-pdl" id="ncT-rZ-kpZ">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="87"/>
@@ -120,7 +120,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" textLabel="dus-6p-7v6" detailTextLabel="xpZ-fR-NVT" style="IBUITableViewCellStyleValue1" id="F8s-KF-ru7">
-                                        <rect key="frame" x="0.0" y="138" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="202" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="F8s-KF-ru7" id="GUK-1x-mup">
                                             <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
@@ -149,7 +149,7 @@
                             <tableViewSection id="LyS-gh-puG">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" id="TVY-Yv-O5m">
-                                        <rect key="frame" x="0.0" y="202" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="266" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="TVY-Yv-O5m" id="LkV-Pg-fHz">
                                             <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
@@ -170,7 +170,7 @@
                             <tableViewSection id="mZz-WB-GI7">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" textLabel="txs-wb-enf" detailTextLabel="wiM-c2-8ze" style="IBUITableViewCellStyleValue1" id="NgN-Th-aLL">
-                                        <rect key="frame" x="0.0" y="266" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="330" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="NgN-Th-aLL" id="5gt-kx-2Te">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -192,7 +192,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" textLabel="n14-5H-NQM" detailTextLabel="EcW-cE-9AW" style="IBUITableViewCellStyleValue1" id="dyM-Jn-hCy">
-                                        <rect key="frame" x="0.0" y="310" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="374" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="dyM-Jn-hCy" id="1Ne-IW-Rqf">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -214,7 +214,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" id="RvP-Zx-CYx">
-                                        <rect key="frame" x="0.0" y="354" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="418" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="RvP-Zx-CYx" id="kog-ym-Ahu">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -238,7 +238,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" textLabel="3iT-tJ-EPm" detailTextLabel="KE6-Be-ahh" style="IBUITableViewCellStyleValue1" id="f7F-fl-7kB">
-                                        <rect key="frame" x="0.0" y="398" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="462" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="f7F-fl-7kB" id="mdt-JZ-QaF">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -303,16 +303,30 @@
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" showsUserLocation="YES" id="Vd6-6a-wvz">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="gaE-41-KeT" id="NVa-Ps-M3C"/>
+                                </connections>
                             </mapView>
                             <navigationBar contentMode="scaleToFill" id="Q1F-3P-q2w">
                                 <rect key="frame" x="0.0" y="20" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
                                     <navigationItem title="Map" id="Vpu-yc-G7w">
-                                        <barButtonItem key="leftBarButtonItem" title="Locations" id="jyT-JJ-Krk"/>
-                                        <barButtonItem key="rightBarButtonItem" title="User" id="I7c-QD-1XZ"/>
+                                        <barButtonItem key="leftBarButtonItem" title="Locations" id="jyT-JJ-Krk">
+                                            <connections>
+                                                <action selector="showLocations" destination="gaE-41-KeT" id="MIk-yQ-AEk"/>
+                                            </connections>
+                                        </barButtonItem>
+                                        <barButtonItem key="rightBarButtonItem" title="User" id="I7c-QD-1XZ">
+                                            <connections>
+                                                <action selector="showUser" destination="gaE-41-KeT" id="tNp-J4-MF3"/>
+                                            </connections>
+                                        </barButtonItem>
                                     </navigationItem>
                                 </items>
+                                <connections>
+                                    <outlet property="delegate" destination="gaE-41-KeT" id="Ofj-xz-tws"/>
+                                </connections>
                             </navigationBar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -320,11 +334,12 @@
                     <tabBarItem key="tabBarItem" title="Map" id="o3k-w7-zED"/>
                     <connections>
                         <outlet property="mapView" destination="Vd6-6a-wvz" id="446-qX-VZR"/>
+                        <segue destination="cpN-E2-QAJ" kind="modal" identifier="EditLocation" id="ZWT-pf-Sa7"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AN8-Nu-NzY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="400" y="1025"/>
+            <point key="canvasLocation" x="708" y="769"/>
         </scene>
         <!--Locations-->
         <scene sceneID="DIL-Fn-13M">
@@ -373,7 +388,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zB6-Ig-h9U" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="814" y="339"/>
+            <point key="canvasLocation" x="878" y="46"/>
         </scene>
         <!--Locations-->
         <scene sceneID="dt0-XA-o0Z">
@@ -390,7 +405,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fBX-wa-fcY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="400" y="334"/>
+            <point key="canvasLocation" x="452" y="46"/>
         </scene>
         <!--Category Picker View Controller-->
         <scene sceneID="bf5-py-Exa">
@@ -402,7 +417,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="pkj-jH-MeA" style="IBUITableViewCellStyleDefault" id="Btb-aF-0CF">
-                                <rect key="frame" x="0.0" y="22" width="320" height="44"/>
+                                <rect key="frame" x="0.0" y="86" width="320" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Btb-aF-0CF" id="iMa-6n-988">
                                     <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -481,6 +496,6 @@
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="HfE-FP-VEe"/>
+        <segue reference="ZWT-pf-Sa7"/>
     </inferredMetricsTieBreakers>
 </document>
