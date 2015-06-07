@@ -123,14 +123,14 @@ extension MapViewController: MKMapViewDelegate {
         if annotation is Location {
             let identifier = "Location"
             var annotationView = mapView.dequeueReusableAnnotationViewWithIdentifier(identifier) as! MKPinAnnotationView!
-            if annotationView == nil {
+            if  annotationView == nil {
                 annotationView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: identifier)
                 
                 annotationView.enabled = true
                 annotationView.canShowCallout = true
                 annotationView.animatesDrop = false
                 annotationView.pinColor = .Green
-                
+                annotationView.tintColor = UIColor(white: 0.0, alpha: 0.5)
                 let rightButton = UIButton.buttonWithType(.DetailDisclosure) as! UIButton
                 rightButton.addTarget(self, action: Selector("showLocationDetails:"), forControlEvents: .TouchUpInside)
                 annotationView.rightCalloutAccessoryView = rightButton
